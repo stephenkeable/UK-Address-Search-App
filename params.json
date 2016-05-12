@@ -1,0 +1,6 @@
+{
+  "name": "UK Address Search App",
+  "tagline": "Mac OS X app built with Swift, using PostCoder Web API for address lookup",
+  "body": "### Simple address lookup app for Mac OS X\r\n\r\nAllows you to search the Royal Mail address database using the PostCoder API from Allies Computing.\r\n\r\n1. Fork or download the project\r\n2. Open in Xcode, \r\n3. Edit the `let postcoderApiKey = \"PCW45-12345-12345-1234X\"` line to add your API key for PostCoder Web\r\n4. Compile or Run\r\n5. Search using address fragment or postcodes\r\n6. Choose an address from the list and see the address formatted ready for an address label\r\n\r\nSee the GitHub Page for current TO DO list etc.\r\n\r\n**Note** Personal project of Stephen Keable, not supported by Royal Mail or Allies Computing.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
