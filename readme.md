@@ -12,6 +12,7 @@ Please let me know of issues or better ways to do things via GitHub issues.
 
 ## TODO
 
+ - Currently only shows first 100 results
  - Make a prefs pane for adding your API key
  - Add templating for the final address output
  - Allow searching more than the UK
