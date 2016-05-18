@@ -2,6 +2,8 @@
 
 Basic swift desktop application I've built that calls the address lookup API from Allies Computing, called PostCoder Web.
 
+Little bit more info + screenshot - http://stephenkeable.github.io/UK-Address-Search-App/
+
 Sign up for free trial of PostCoder Web at - https://www.alliescomputing.com/postcoder/address-lookup
 
 Built as a little project to try and learn Swift, outside of my day job at Allies Computing 
